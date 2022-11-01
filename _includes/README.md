@@ -1,0 +1,1 @@
+Extract common information in pages.
