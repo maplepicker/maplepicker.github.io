@@ -1,5 +1,4 @@
 ---
-layout:     post
 author:     
 title:      "Hello World!"
 date:       2022-11-01 11:09:15 +0800
