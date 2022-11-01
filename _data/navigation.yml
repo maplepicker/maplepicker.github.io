@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About"
+    url: about
+  - title: "Education"
+    url: edu
+  - title: "Work Experience"
+    url: work
