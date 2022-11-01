@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Test content KK
+Homepage.

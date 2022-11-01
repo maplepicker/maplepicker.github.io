@@ -1,9 +1,11 @@
 ---
 layout:     post
+author:     
 title:      "Hello World!"
 date:       2022-11-01 11:09:15 +0800
 categories: jekyll update
-published:  false
+permalink:  /:categories/:year/:month/:title.html # url showed in the browser
+published:  true
 ---
 
 First blog.
