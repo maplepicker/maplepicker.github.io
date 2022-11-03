@@ -20,7 +20,7 @@
 
 # theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "sunrise"
 
 # Site settings
 locale         : "en-US"
@@ -29,7 +29,7 @@ title_separator: "-"
 name           : Runzhou Chen
 description    : "Runzhou Chen's homepage."
 url            : "https://maplepicker.github.io"
-baseurl        : /maplepicker.github.io
+baseurl        : /
 email          : maplepicker@outlook.com
 domain         : maplepicker.github.io
 github_username: maplepicker
