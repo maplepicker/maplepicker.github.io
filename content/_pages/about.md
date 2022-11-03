@@ -10,11 +10,11 @@ author_profile  : true
 
 ### Interests
 
-**Academical**
-<span style="font-size: 80%">Cybersecurity, Cryptography (Zero Knowledge and so on).</span>
+**academical**
+<span style="font-size: 80%">cybersecurity, cryptography (zero knowledge and so on).</span>
 <br>
-**Personal**
-<span style="font-size: 80%">Practical Memory Palace, Psychology (Parts about explaining everyday matters and so on), World History.</span>
+**personal**
+<span style="font-size: 80%">practical memory palace, psychology (parts about explaining everyday matters and so on), world history.</span>
 
 ### Current Efforts
 
