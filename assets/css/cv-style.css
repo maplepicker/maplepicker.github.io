@@ -1,0 +1,81 @@
+/* body {
+    font-family: 'Lucida Console' monospace;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    
+    padding: 0;
+} */
+
+.info {
+    text-align: center;
+}
+
+.icon_header {
+    height: 20px;
+    margin-right: 2px;
+    vertical-align: -18%;
+    width: auto;
+}
+
+.icon_content {
+    height: 14px;
+    margin-right: 2px;
+    vertical-align: -13%;
+    width: auto;
+}
+
+/* h1 {
+    border-bottom-color: transparent;
+    color: rgb(37, 0, 71);
+    font-size: 26px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 0.5px solid rgb(184, 118, 245);
+    color: black;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 3px;
+    padding-top: 8px;
+    text-align: left;
+} */
+
+.sec_header {
+    float: left;
+    font-size: 80%;
+    font-weight: bolder;
+}
+
+.sec_time {
+    float: right;
+    font-size: 80%;
+}
+
+.sec_subheader {
+    float: left;
+    font-size: 80%;
+    font-weight: bold;
+}
+
+.sec_location {
+    float: right;
+    font-size: 80%;
+}
+
+ul {
+    font-size: 70%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+li {
+    font-size: 70%;
+    /* padding-right: 22px; */
+}
