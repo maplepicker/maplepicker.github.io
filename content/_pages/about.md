@@ -35,12 +35,11 @@ My current goal in a larger scale is to find a specific track within my personal
 <br>
 **completed** reading [Cybersecurity (The MIT Press Essential Knowledge series)](https://www.amazon.com/Cybersecurity-MIT-Press-Essential-Knowledge/dp/0262542544).
 <br>
-**completed** reading some papers about overview and review of Cybersecurity and Cryptography.</span>
+**completed** reading some papers about overview and review of Cybersecurity and Cryptography.
 
 ### Previous Experience
 
-<span style="font-size: 80%">
-From August 2021 to July 2022, I worked in [VisionNav Robotics (Shenzhen) Co. Ltd.](https://www.visionnav.cn/) as a Perception Algorithm Engineer. [Click here](/work).
+<span style="font-size: 80%">From August 2021 to July 2022, I worked in [VisionNav Robotics (Shenzhen) Co. Ltd.](https://www.visionnav.cn/) as a Perception Algorithm Engineer. [Click here](/work).
 <br>
 In 2021, I received B.E. in Computer Science and Technology from Harbin Institute of Technology (Shenzhen). [Click here](/edu).
 <br>
