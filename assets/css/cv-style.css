@@ -67,15 +67,15 @@ h2 {
     font-size: 80%;
 }
 
-ul {
-    font-size: 70%;
+.myul {
+    font-size: 80%;
     margin-bottom: 0px;
     margin-top: 0px;
     padding-bottom: 0px;
     padding-top: 0px;
 }
 
-li {
-    font-size: 70%;
+.myli {
+    font-size: 80%;
     /* padding-right: 22px; */
 }
