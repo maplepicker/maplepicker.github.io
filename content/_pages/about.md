@@ -3,6 +3,9 @@ layout          : single
 permalink       : /about/
 title           : "About"
 last_modified_at: 2022-11-03
+toc             : true
+author          : Runzhou Chen
+author_profile  : true
 ---
 
 ### Interests

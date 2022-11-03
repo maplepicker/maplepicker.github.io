@@ -38,9 +38,8 @@ github_username: maplepicker
 author     : 
   name     : "Runzhou Chen"
   avatar   : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio      : 
+  bio      : "321321321"
   location : "Shenzhen, Guangdong, China"
-  email    : "maplepicker@outlook.com"
   links    : 
     - label: "Email"
       icon : "fas fa-fw fa-envelope-square"
