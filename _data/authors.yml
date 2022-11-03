@@ -2,7 +2,7 @@ Runzhou Chen:
   name      : "Runzhou Chen"
   location  : "China"
   bio       : "Happy and learning ~"
-  avatar    : "/assets/images/bio-photo-0.jpg"
+  # avatar    : "/assets/images/bio-photo-0.jpg"
   links     :
     - label : "Email"
       icon  : "fas fa-fw fa-envelope-square"
