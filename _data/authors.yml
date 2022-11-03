@@ -10,6 +10,9 @@ Runzhou Chen:
     - label : "Website"
       icon  : "fas fa-fw fa-link"
       url   : "https://runzhouchen.page"
+    - label : "CV"
+      icon  : "fas fa-fw fa-user"
+      url   : "../assets/pdf/v1.3.pdf"
 
 # Billy Rick:
 #   name        : "Billy Rick"
