@@ -28,7 +28,7 @@ My current goal in a larger scale is to find a specific track within my personal
 
 <span style="font-size: 80%">For the current individual research, here's what I'm doing:
 <br>
-**collecting** papers from [Crypto 2022](https://crypto.iacr.org/2022/), [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22), during which I try to know about what the cutting-edge research is about, get familiar with novel words and try to find some potential univerisities and researchers to work with.
+**collecting** papers from [Crypto 2022](https://crypto.iacr.org/2022/), [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22) to my [Zotero](https://www.zotero.org/) library, during which I try to know about what the cutting-edge research is about, get familiar with novel words and try to find some potential univerisities to attend and researchers to work with.
 <br>
 **attending** [Cryptography I](https://www.coursera.org/learn/crypto) on coursera online.
 <br>
