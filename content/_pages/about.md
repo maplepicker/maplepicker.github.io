@@ -8,13 +8,9 @@ author          : Runzhou Chen
 author_profile  : true
 ---
 
-### Interests
+### Academical Interests
 
-**academical**
 <span style="font-size: 80%">cybersecurity, cryptography (zero knowledge and so on).</span>
-<br>
-**personal**
-<span style="font-size: 80%">practical memory palace, psychology (parts about explaining everyday matters and so on), world history.</span>
 
 ### Current Efforts
 
@@ -47,3 +43,7 @@ My current goal in a larger scale is to find a specific track within my personal
 In 2021, I received B.E. in Computer Science and Technology from Harbin Institute of Technology (Shenzhen). [Click here](/edu).
 <br>
 I participated in NOIP(National Olympiad in Informatics in Provinces, China) for rounds in 2015 and 2016, and got first prizes in advanced group.
+
+### Personal Interests
+
+<span style="font-size: 80%">practical memory palace, psychology (parts about explaining everyday matters and so on), world history.</span>
